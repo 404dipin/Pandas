@@ -1,0 +1,19 @@
+Before manipulating the data you must know how to do these things
+1.select specific column
+2.Filter rows
+3.combine multiple conditions
+
+solution
+1. To select any specific column use square bracket to access them 
+colunm=df["column_Name"] for selecting one column
+For selecting multiple column at a time
+subset=df["column1","column2","column3","..."]
+
+
+2. To filter rows use boolean conditions
+based on single condition
+row_filter=df[df["column_Name]>50000]
+
+multiple conditions
+row_filter=df[(df["column_name"]>50000)&(df["column_Name]<80000)]
+

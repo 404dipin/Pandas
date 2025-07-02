@@ -1,0 +1,8 @@
+why do we need to explore the data???
+1. To understand the data sets
+i.e. how many rows,column are present in that data and what are the names of the column,types of data....
+
+2.Identifying the problems
+i.e. Finding and checking the missing data, checking for the incorrect data types,check for duplicate data....
+
+3.Plan next steps

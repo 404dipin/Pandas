@@ -1,0 +1,6 @@
+Before analyzing and manipulating the data make sure these things
+1.How big is your data
+2.Names of the column
+attributes of pandas
+shape : To know how many rows and column  are there in your datasets.
+column: Display the name of the column present in the datasets.
