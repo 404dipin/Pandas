@@ -1,0 +1,8 @@
+Before handling the missing data first step is to identify/detect the missing data.
+
+to detect the missing data use isnull()
+it returns the boolean data if the value is null it returns true and if the value is not null then it returns false.
+
+to identify how many data are missing use isnull().sum()
+it returns the no of data that are missing
+
